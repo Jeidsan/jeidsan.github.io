@@ -1,6 +1,7 @@
 baseURL: https://www.jeidsan.com.br
 languageCode: pt-br
 title: Jeidsan Pereira
+publishDir: docs/
 
 module:
   imports:
