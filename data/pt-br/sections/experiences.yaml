@@ -1,0 +1,112 @@
+# section information
+section:
+  name: Experiência
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Cooperativa Central de Crédito - Ailos
+    url: "https://www.ailos.coop.br/"
+    location: Blumenau - Santa Catarina
+    logo: /images/sections/experiences/ailos.svg
+    overview: Parte de um sistema de crédito com mais de um milhão de cooperados, a Central Ailos coopera para transformar vidas.
+  positions:
+  - designation: Analista de Sistemas Sênior
+    start: Mar. 2022
+    end: Out. 2023
+    responsibilities:
+    - Análise, desenvolvimento e manutenção da plataforma de Open Finance utilizada pelas cooperativas filiadas ao sistema Ailos utilizando as tecnologias .net Core, React JS, Mulesoft e banco de dados Oracle;
+    - Suporte aos times de arquitetura e segurança no levantamento de requisitos relacionados ao ecossistema do Open Finance Brasil;
+    - Liderança técnica do time de analistas de sistemas, desenvolvedores e analistas de qualidade da plataforma de Open Finance Brasil da instituição;
+    - Suporte na integração com os demais produtos da instituição;
+    challenges:
+      - Estabilização e manutenção da solução legada, paralela à migração e evolução dos produtos relacionados ao Open Finance na tecnologia-alvo;
+
+- company:
+    name: GovernançaBrasil - GOVBR
+    url: "https://www.govbr.com.br/"
+    location: Blumenau - Santa Catarina
+    logo: /images/sections/experiences/govbr.png
+    overview: Com seus mais de 50 anos de experiência e um enorme legado de inovação, a GovernançaBrasil é um nome importante na história da cidade de Blumenau, em Santa Catarina, e fornece ferramentas de tecnologia para apoiar a gestão pública brasileira.
+  positions:
+  - designation: Analista de Sistemas Sênior
+    start: Abr. 2021
+    end: Dez. 2021
+    responsibilities:    
+    - Análise, construção e manutenção de plataforma especializada na negociação de débitos e recuperação de receitas para prefeituras e autarquias municipais utilizando Java, Angular e PostgreSQL;
+    challenges:
+    - Liderança técnica das squads responsáveis pelos produtos financeiros da empresa e pelos produtos destinados a empresas e negócios;
+
+- company:
+    name: Previva Soluções de TI para Promoção da Saúde
+    url: "https://www.previva.com.br"
+    location: Blumenau - Santa Catarina
+    logo: /images/sections/experiences/previva.svg    
+    overview: Oferendo uma solução completa e eficiente, para apoiar as operadoras de saúde, empresas gestoras de programas de atenção à saúde e empresas em suas iniciativas de atenção à saúde e prevenção de doenças e riscos, a Previva ajuda a oferecer qualidade de vida aos brasileiros.
+  positions:
+  - designation: Programador de Sistemas Pleno
+    start: Dez. 2019
+    end: Abr. 2021 
+    responsibilities:
+    - Análise, projeto e desenvolvimento de sistemas para gestão e execução de programas em medicina preventiva e promoção da saúde;
+    - Análise de viabilidade de projetos e produtos;
+    challenges:
+    - Migração de sistema de gestão e execução de programas de medicina preventiva e promoção da saúde;
+    - Adequação e manutenção da metodologia Scrum para gerenciamento dos projetos de software;
+    - Análise e implantação de projeto de adequação à Lei Geral de Proteção de Dados Pessoais;
+    - Monitoramento e execução de atividades envolvendo o uso de dados pessoais;
+    - Atuação como membro do comitê de gestão e proteção de dados pessoais;
+
+- company:
+    name: Inventti
+    url: "https://www.govbr.com.br/"
+    location: Blumenau - Santa Catarina
+    logo: /images/sections/experiences/inventti.png
+    overview: Pioneira na gestão de documentos fiscais eletrônicos, a Inventti alcança mais de 30 mil empresas em todo o país, mantendo um índice de satisfação de 98%, algo raro no setor de software.
+  positions:
+  - designation: Desenvolvedor Full Stack
+    start: Mai. 2019
+    end: Dez. 2019
+    responsibilities:
+    - Análise, projeto, desenvolvimento e manutenção de sistemas para controle de documentos fiscais eletrônicos (NF-e, NFC-e, CF-e, NFS-e, CT-e, MDF-e, EFD-REINF) utilizando tecnologias .NET Framework;
+    challenges:
+    - Reestruturação de middlewares para controle de emissão de documentos fiscais eletrônicos (NF-e, NFC-e, CF-e, NFS-e, CT-e, MDF-e, EFD-REINF);
+    - Garantia de performance no processamento de grandes massas de dados;
+
+- company:
+    name: GovernançaBrasil - GOVBR
+    url: "https://www.govbr.com.br/"
+    location: Blumenau - Santa Catarina
+    logo: /images/sections/experiences/govbr.png
+    overview: Com seus mais de 50 anos de experiência e um enorme legado de inovação, a GovernançaBrasil é um nome importante na história da cidade de Blumenau, em Santa Catarina, e fornece ferramentas de tecnologia para apoiar a gestão pública brasileira.
+  positions:
+  - designation: Programador de Sistemas Pleno
+    start: Jun. 2017
+    end: Abb. 2019
+    responsibilities:
+    - Desenvolvimento e manutenção de sistemas para a gestão pública utilizando as tecnologias Visual Basic .NET, C# .NET e Microsoft SQL Server;
+    challenges:
+    - Reestruturação dos sistemas de execução fiscal judicial para municípios;
+    - Atuação no projeto de estabilização do núcleo financeiro do sistema de administração das receitas para municípios;
+
+- company:
+    name: ASV Tecnologia e Inteligência Empresarial
+    url: "https://www.asv.com.br/"
+    location: Brusque - Santa Catarina
+    logo: /images/sections/experiences/asv.jpg
+    overview: Oferecendo serviços de consultoria empresarial, consultoria e gestão de infraestrutura tecnológica e sistemas de informação, a empresa atua desde o ano de 1994 na região do Médio Vale e Foz do Itajaí.
+  positions:
+  - designation: Analista de Desenvolvimento Pleno
+    start: Jan. 2014
+    end: Jun. 2017
+    responsibilities:
+    - Suporte ao usuário, análise, desenvolvimento e manutenção de soluções desktop e web utilizando C# .NET, MySQL, Microsoft SQL Server, eXpressApp Framework e Windows Azure.
+    challenges:
+    - Reconcepção da solução de gestão logística internacional, com melhoria na usabilidade e aumento da performance e colaboração na construção do núcleo financeiro para o sistema;
+    - Colaboração na concepção e implementação dos projetos de Business Intelligence e nos protótipos de análise de dados organizacionais;

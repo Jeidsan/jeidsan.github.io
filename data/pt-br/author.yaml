@@ -1,0 +1,20 @@
+# some information about you
+name: "Jeidsan Pereira"
+nickname: "Jeidsan"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Olá, eu sou o"
+image: "images/author/jeidsan.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "contato@jeidsan.com.br"
+  phone: "+55 47 9 9233 2278"
+  github: jeidsan
+  linkedin: jeidsan  
+
+# some summary about what you do
+summary:
+  - Sou quase um matemático  
+  - Sou cientista da computação
+  - Estou graduando em antropologia
+  - Trabalho como desenvolvedor de software
+  - E como analista de dados
